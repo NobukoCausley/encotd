@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dwt-noubu": "^1.0.2",
+    "vne-tsto": "^1.0.0"
+  },
+  "name": "encotd",
+  "description": "still under construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nobukoc",
+  "license": "ISC"
+}

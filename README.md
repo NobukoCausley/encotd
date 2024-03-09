@@ -1,1 +1,8 @@
-# encotd
+still under construction
+
+
+### Installation
+```
+npm install
+
+```
